@@ -61,9 +61,8 @@ Adding/Removing Favorites
 
 ## Screenshots
 
-![image](https://github.com/bahaseline/WeatherApplication/assets/117291953/f801de8b-b97d-4829-a170-e7025e5002de)
-![image](https://github.com/bahaseline/WeatherApplication/assets/117291953/4d74e857-3678-4781-95e6-c920e10c4b37)
-![image](https://github.com/bahaseline/WeatherApplication/assets/117291953/6162a5c8-2ede-41dd-a02f-0e9baefd35f3)
+![3](https://github.com/bahaseline/WeatherApplication/assets/117291953/4fa43329-111f-4c9a-bd7c-db0cdcae0a9e)
+
 
 
 ## Contributing
